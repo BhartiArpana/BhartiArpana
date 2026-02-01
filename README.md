@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhartiarpana&label=Profile%20views&color=0e75b6&style=flat" alt="bhartiarpana" /> </p>
 
-- 🌱 I’m currently learning **Learning MERN Stack & Generative AI**
+- 🌱 I’m currently learning **MERN Stack & Generative AI**
 
 - 💬 Ask me about **React.js, javascript**
 
