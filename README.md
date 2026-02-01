@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arpana Bharti</h1>
 <h3 align="center">Frontend (React) Developer | Learning MERN Stack & Generative AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhartiarpana&label=Profile%20views&color=0e75b6&style=flat" alt="bhartiarpana" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack & Generative AI**
 
-- 💬 Ask me about **React.js, javascript**
+- 🌱 I am currently learning **MERN Stack & Generative AI**
+
+- 💬 Ask me about **React.js, Javascript**
 
 - 📫 How to reach me **arpanabharti09@gmail.com**
 
